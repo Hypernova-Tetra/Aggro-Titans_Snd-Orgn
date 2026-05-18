@@ -1,0 +1,42 @@
+add Main/raw/event/scene/bo1xxx.pac
+add Main/raw/event/scene/bo2xxx.pac
+add Main/raw/event/scene/bo3xxx.pac
+add Main/raw/event/scene/zev_dragon_finish_00.pac
+add Main/raw/event/scene/zev_dragon_finish_01.pac
+add Main/raw/event/scene/zev_dragon_sp_01.pac
+add Main/raw/event/scene/zev_dragon_sp_missile.pac
+add Main/raw/event/scene/zev_dragon_sp_psycho.pac
+add Main/raw/event/scene/zev_knight_atk_sp01.pac
+add Main/raw/event/scene/zev_knight_atk_sp02.pac
+add Main/raw/event/scene/zev_knight_atk_sp03.pac
+add Main/raw/event/scene/zev_knight_shieldride01.pac
+add Main/raw/event/scene/zev_knight_shieldride01_short.pac
+add Main/raw/event/scene/zev_knight_shieldride02.pac
+add Main/raw/event/scene/zev_knight_shieldride02_aerial.pac
+add Main/raw/event/scene/zev_knight_sonic_damageXX.pac
+
+add Main/raw/movie/ev1770.usm
+add Main/raw/movie/ev1770_4k.usm
+add Main/raw/movie/ev5020.usm
+add Main/raw/movie/ev504X.usm
+
+add Main/raw/sound/extra_sound/se_rangers_upd_obj_new.acb
+add Main/raw/sound/giant01_sound/se_rangers_giant01.acb
+add Main/raw/sound/dragon01_sound/se_rangers_giant02.acb
+add Main/raw/sound/knight01_sound/se_rangers_giant03.acb
+add Main/raw/sound/rifle01_sound/se_rangers_giant04.acb
+add Main/raw/sound/the_end01_sound/se_rangers_boss_the_end.acb
+add Main/raw/sound/voice_rangers_update_event_en.acb
+add Main/raw/sound/voice_rangers_update_event_en.awb
+add Main/raw/sound/voice_rangers_update_event_de.acb
+add Main/raw/sound/voice_rangers_update_event_de.awb
+add Main/raw/sound/voice_rangers_update_event_es.acb
+add Main/raw/sound/voice_rangers_update_event_es.awb
+add Main/raw/sound/voice_rangers_update_event_fr.acb
+add Main/raw/sound/voice_rangers_update_event_fr.awb
+add Main/raw/sound/voice_rangers_update_event_it.acb
+add Main/raw/sound/voice_rangers_update_event_it.awb
+add Main/raw/sound/voice_rangers_update_event_ja.acb
+add Main/raw/sound/voice_rangers_update_event_ja.awb
+
+add mod.ini
